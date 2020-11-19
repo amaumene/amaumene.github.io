@@ -6,13 +6,13 @@ about: I work mostly with OpenStack, Ceph, Ansible and OpenShift.
 disqus_shortname: amaumene
 #google_analytics: UA-XXXXXXXX-Y
 
-enableTags: true
+enableTags: false
 tagarray: []
 
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
+#collections:
+#  project:
+#    output: true
+#    permalink: /project/:path/
 
 social:
     - icon: fa-facebook
@@ -26,17 +26,17 @@ social:
     - icon: fa-github
       link: "https://github.com/amaumene"
 
-share:
-  twitter_username: github.io
-  fb_appid: 1749788565247320
+#share:
+#  twitter_username: github.io
+#  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+#    - text: My Projects
+#      url: /projects/
+#    - text: XML Feed
+#      url: /feed.xml
 
 url: "https://blog.maumene.org"
 baseurl: ""
